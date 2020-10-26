@@ -1,4 +1,354 @@
 #!/bin/bash
 
-God="BlessYou";krF=FoL;Gnr=Vl;QIy=Is;UOt=FC;kVE=Sk;KlM=gM;Xwe=TF;oTX=dD;Yox=Qa;wQx=mb;Kqb=Zy;xWU=twB;gTp=auw;hwZ=Ejp;tHg=iQZ;ojo=shb;jhw=FjF;IDL=klV;wOA=yFT;PZL=XfL;DRJ=DiE;bmJ=FCa;XGN=dOT;QCK=dkY;SOb=WJE;RJx=uAv;czJ=dts;VGB=oCy;TyO=xGj;yHU=bpq;Nfb=Wct;doQ=Ibf;XCL=rax;ZNH=Hhf;Eoh=yCU;ghd=hut;ooz=VKY;qMf=PrY;Ecf=Lke;BbJ=jie;QOI=lOT;oi=QkU;yM=iDO;rT=twI;wa=BEk;Lf=SGl;Sx=Kri;yL=RiF;Xf=iZT;iv=fpC;fW=nki;qX=FrL;ba=OUY;czP=Hdm;ecN=WKt;QMW=BnB;Nsq=jdC;nof=OZt;bhx=qNV;vVN=xaU;smp=Wta;ceY=GDh;AIB=juO;miA=Cso;zgz=Hka;Kea=YMq;hUp=SWY;zMP=ozk;WGK=JEt;pkF=jjF;FCq=pFs;ZrQ=VcQ;ZjS=do;BTP=Su;sly=xM;aZl=vF;iJn=bo;QCl=HB;SCO=xo;fUq=Jo;Epq=zc;wxq=Ev;ziJ=Gx;Kzo=JF;PDO=pJ;qhq=yp;OYk=rj;OGy=Cc;hSK=xR;lnD=um;UXi=pl;xBF=xP;qOD=iX;RVy=nl;mqe=JK;rQt=CA;qJD=FR;sPp=XZ;moh=DC;Fsj=GWh;NTx=Jnx;dwG=ncr;Ugd=mFV;ZTt=WjI;mFG=lms;YGK=bPI;UKs=ibv;hka=JFE;zpQ=Gxt;VlF=Jxk;AEJ=cuk;SUZ=YiV;Wfq=NhZ;xLp=ray;QmE=mqM;fkp=tHl;Sek=XvT;qbj=EKu;RfA=xSe;fPQ=Oll;cif=jtg;GYE=yei;Prw=RTD;sMB=pEL;sxA=APb;aRs=HgZ;SXm=VSI;lZA=UKc;YMw=Lct;bwO=XQI;OxQ=COX;bPh=KqP;GVr=hRx;eoA=eID;AZK=fFj;PGC=XPy;ieV=gly;AUO=yit;GjW=jaZ;tBB=HSO;vdV=efl;HiW=VHx;JaQ=RCo;cGr=fsk;eib=jty;TPK=rlb;dhM=oDt;tCL=muK;gAg=xQq;xWl=eMt;AtB=mbQ;UzS=lee;xjU=CPZ;qLS=iIg;dQw=NHN;Dum=qAc;aei=Whw;afz=OcR;NWZ=Txs;gzI=HsZ;YmH=IIm;kZc=Ppd;qnZ=vjw;sQw=BmF;PAB=rGe;gah=aHu;XfD=uJJ;LmJ=PUK;jCz=XpN;gTg=hRF;cpS=fhx;wFI=fih;pHM=aTH;GIm=Jtb;XDy=XGY;zMs=kPd;VtP=pbP;ALj=acU;HEZ=Tre;EPr=vOf;eSC=AIk;TXH=szR;nNa=bGD;lQt=Qod;Qvm=HGI;tkS=IOY;qmZ=tDf;xxx=xOS;pFg=XCd;aVR=xGh;ooR=AHX;JVj=laY;TvM=kEx;SYU=hol;ddj=khS;aPP=oiI;Edo="
-";DSi=WYX;LHA=Gfx;VgU=gJZ;Rxh=xYy;bXG=gvs;eLoP="e";u18="6";Yt="l";Yxgs="";qwt="Fu";ieC=HO;XcH=Rv;Ugs=LC;vD=xp;fy=oW;Zl=LhH;oP=Jm;sDA=kpY;GHn=TB;wzk=Da;oiO=Ei;NaM=hIf;fC=vjz;kT=rz;sV=bZz;CL=ARL;Wc=dA;gZG=tGI;vpk=cM;Aao=tgy;sU=ld;LZ=Pr;BE=wCX;iN=fQ;RCe=Dm;Rc=Fl;Njo=OMq;gtb=SKa;Wf=jMB;Dm=wHr;Nx=Wn;ANT=jAK;oFy=Bnc;IjZ=Xj;DQa=oK;ewZ=Vm;QPf=lz;Cwg=aS;KEM=jS;fkE=hM;nLw=ym;FWv=BC;aDC=Lw;tW=Rgn;kw=Hgf;tQ=eSh;Fi=iGb;Or=snM;ZG=xqx;xC=WJr;Bf=haC;pT=THr;By=jbu;tm=Hcy;eT=nTC;UT=KCa;dk=Pxy;vG=TvX;HX=MMB;Ow=ZoT;UJ=LvE;rx=oMF;EB=VZx;OC=IfU;dv=lTx;Nk=TNq;Ej=bKu;dl=ZZi;yzL=bJ;EiG=LJ;iqg=gK;fbd=vg;OPl=Ei;tnI=YS;yBV=DA;yxh=Ks;Nic=Ih;wMq=tD;iDs=AQ;Nhh=zy;JWe=Ry;gC=AnI;qWN=uq;hIc=OAL;UOm=Nq;Xj=ax;GW=utn;Fmc=CaI;zeK=eT;hI=sl;Ae=RK;XV=doy;Dpq=Eg;Mmr=MZg;CXd=Bao;RND=WUC;CGm=SRK;DJh=LZw;ym=Ah;xzv=IX;FYi=YUX;v6T=" ";RzE="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 KwGb152L2VGZvAiPgcSX61SYbdCIFlWLgAXZydGI8BiMu1CIkFWZoBCfgQHe05iYmRXdv9iMiV2d zBCfgQ3cs5iKvIjYldHJgQXYjBCIgAiCiICIvh2YlBCIgAiCuVGa0tTXgADI9ECIi8DJiAyWgYWa KISP90TP90TP90TP90TP90TPiAyboNWZgACIgoAd19mLiV2dk8iMiV2dkAiP+AScp5WdgwHI0J3b gogIqACIgACIF50TEBCIgACIqICIvh2YlBCIgAiCioCIgACIgACIgACIgACIgoiIg8GajVGIgACI gAiCi0TP90TP90TP90TP90TP90jIg8GajVGIgACIKIiKgACIgACIgACIgACIgAiKiAyboNWZgACI 90TP90TP90TP90TP90jIg8GajVGIgACIKQXdv5iYldHJvIjYldHJgQXYjBCIgAiCiICIvh2YlBCI gAXZydGI8BCd4RnLqQHel9iMiV2dkACdhNmCKkmZKEDI0lGelBCIgAiCiICIvh2YlBCIgAiCi0TP 2QHb1NXZy9iMiV2dkACdhNmC0NHbuYDdsV3clJ3LyIWZ3RCI+4DIxlmb1BCfgQncvNHI8BiYldHJ 3QHb1NXZy9iMiV2dkACdhNmC0NHbucDdsV3clJ3LyIWZ3RCI+4DIxlmb1BCfgQncvNHI8BCdzxmL s9Gbvx2bs9Gbvx2bs9Gbg0TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90zIKoAdzxmL vIjYldHJgQXYjpgCKogCKoAd4RnLq8iMiV2dkAiZtASbypQP90TP90TP90TP90TP90TPg8Gbvx2b 90TP90TP90TP90TPiAyboNWZKoAd19mLiV2dk8iMiV2dkAiP+AScp5WdgwHI0J3bzBCfgQ3cs5iK oNWZKIiKgACIgASRO9ERgACIgAiKiAyboNWZKIiKgACIgACIgACIgACIgAiKiAyboNWZKISP90TP gQXYjpgIiAyboNWZKISP90TP90TP90TP90TP90TPiAyboNWZKIiKgACIgACIgACIgACIgAiKiAyb KISP90TP90TP90TP90TP90TPiAyboNWZKQXdv5iYldHJvIjYldHJ";Mll="ch";HTv=Yyu;cbY=cId;FwM=nUK;Neo=URi;Jrd=ZsO;ZzZ=gsI;AGg=Krt;KoC=Usx;ftb=Vzm;kuT=EVS;AUX=NGv;Aow=suL;uBc=hlq;OqT=ApZ;kSe=ZTL;aFt=FKz;yqF=lEj;ZII=uml;BwC=JPx;gWH=eyv;wWA=hWw;unn=Brn;hxs=DiR;nPo=iOr;Uuo=lUG;zxW=Nkd;MAi=aWZ;XcA=xIq;sZL=MLV;rwV=lNF;GYU=UPS;WeS=kTk;Aym=btt;rGW=IDI;Uhx=DhE;Kut=fsH;eGn=UyX;VNh=YtK;QWo=gEO;Byf=nvi;Ezb=oBV;uWP=JEl;Vsp=Lgc;EAF=Byk;PSz=HCg;pyP=bQL;Uxq=ehM;WdA=Uij;pWM=bsv;oXm=BKe;mtM=qkr;XEB=pua;XzD=SPa;Kng=JSY;bFL=Zud;xbc=GSY;neu=TQJ;Ttj=EdI;ZCG=HXS;NSP=aRL;UPz=CwR;edR=xrL;jQC=PQv;ESa=fXd;eKc=KZo;WEy=DoO;fQg=tcd;FCk=GMk;YgE=Nzd;FAs=AFH;gRJ=wZL;ffM=Jsb;Ixf=RQY;Gmk=ugg;GRa=CTs;UiO=Yer;etb=mgM;fex=MqF;Nll=vPC;KWd=yXb;Muu=Mzy;wHZ=jjp;SmF=EZc;ZqQ=lNR;CuE=Afy;weE=KKV;ggU=fdX;wbE=YVE;TEj=yAz;and=qKr;MVm=jME;jUo=PRn;lUm=BLo;IUT=oDE;BDY=lkB;oQp=FKc;YEa=bpY;qOb=Izx;MfR=ODo;JmY=Kia;weH=FVf;URv=vSO;Jdp=BJH;opM=fhP;NUx=Qpe;iDY=ZNQ;lAj=vuK;imh=QaU;Cdp=mgw;wAJ=IMc;ANx=UQv;CkG=nsS;tuB=Lfj;KFb=ACa;Znn=SPN;Izy=AKY;MCI=uEV;Vas=kJi;OVF=xhN;ocJ=mis;CCq=zoG;Uun=Bsu;Vet=cPB;PMj=gXU;Svx=qVt;ado=LSJ;zGv=aIv;jyW=gEB;KLw=yan;nqU=foW;mPS=Zhi;oRH=HzR;aTq=iAA;LFG=yTk;LhE=dvZ;Gmd=aBt;lDM=FUf;KkS=LUv;ODo=ifH;LIW=oRx;kbu=cPC;WgK=RfX;NoQ=OpS;VWA=MwS;bPe=cOh;drL=JXi;tuj=aeR;nlI=RgR;qog=uHu;zLA=FCa;INo=pXp;PaQ=yJV;kPu=dmu;EgN=Wek;MXp=PIc;YEF=xAk;Zvz=EGN;Feh=yij;sv=TmN;Gc=WAR;kw=XRs;dT=fhJ;ed=WAu;rq=OFi;ak=auS;zU=gWJ;QB=PyR;Ci=HYT;DR=HGU;nEl=izK;Yon=JKg;aRR=osG;BLG=nGa;fad=iUJ;FeM=Oph;NIf=nUq;AdK=IHM;pMr=KRX;GJr=sor;Yzr=JJM;zCc=jhW;iac=Znx;lPF=qCm;GHi="o";Re="-";LcV=" ";H2o="t";O2h="r";r="ev";Gi="ba";x="s";sfT="d";x64="4";CTh=Vu;sh=dMK;Pl=GnF;MQ=HQe;dG=hZi;Tv=TuJ;BP=PPf;nh=Edv;pY=vGA;io=bPH;Rr=tdy;MF=jZJ;my=zmB;Yd=mtW;XA=kqf;VR=qss;BP=enZ;re=dnQ;os=Xua;kA=hzB;aE=JKy;vG=pcw;SO=gBc;FO=XMq;kK=ZHi;DwX=sS;mNb=im;nv=Cn;yNI=Hb;Yt=FQ;Pl=PU;ko=DJA;UX=tv;XD=UYM;uz=hIa;YVD=cJM;Zde=fi;IF=hLs;JCM=Dg;Fdw=JL;ieQ=FAu;ZMh=TQB;qHK=EM;wVK=bxY;nMR=mC;UL=Lep;wJ=eM;yc=dch;rIX=Vb;bBO=eT;Zpx=Iz;ang=Ln;AYe=Qy;UiQ=IU;usu=Xy;rkj=Ce;eVp=OY;aFw=wR;uNw=cJ;DQb=Tn;ZLx=ec;ipH=hk;pcK=rd;lCz=Ce;jxG=nx;Gkd=Pl;yFz=zk;vow=Qm;QBs=gz;dXe=sQ;dJU=vr;urX=mj;IF=qGI;UoJ=hD;x=$(eval $eLoP$Mll$GHi$v6T$Re$eLoP$v6T$RzE$LvC|$v6T$H2o$O2h$LcV"$LcV"$LcV"$Edo"$LcV|$LvC$O2h$r$v6T|$LvC$Gi$x$eLoP$u18$x64$v6T$Re$sfT);eval "$x";GMZ=snx;llB=diL;pxn=skL;Syg=GFT;RaJ=zXK;ZKL=BSQ;XCH=tmb;eyL=TOc;Ime=EZW;TFM=mN;tUA=Ab;fnp=ch;FNp=pJ;JRk=Az;YXw=hu;Qde=tk;zmI=lH;MdB=kG;cRe=zm;ygE=Og;MrN=Wn;Rwc=UL;KRw=NX;AmN=nu;lUf=HN;HVY=od;pqW=bz;hzm=tv;vAz=ql;fVA=KK;WXS=HX;PRd=CDX;lwM=wEt;ZcX=rAB;Yta=Syw;hvo=gTx;mtU=YbQ;Ilo=unK;Ava=XiM;mET=pHp;fFk=Pno;XBK=taz;dtp=zbA;bMu=zKL;FPC=PwO;xXA=dwc;Alj=ylC;JQq=JPx;MUH=FcT;cvl=azu;HPj=sSJ;dsl=XvS;Hoq=nKA;AZD=sfK;JFc=NZK;eEE=DrT;ZhW=fMr;VBT=enR;poD=hwH;lLU=qkd;yTa=OEZ;ZpV=WQP;Jeg=Mwj;YGH=HdD;mKz=pLU;PNn=ako;scF=rtk;QTH=sHP;Eto=FIR;BlM=WAX;UHF=WBV;Fud=mEb;sGh=Zzy;lPW=SOK;mcu=ZDf;QdD=YZM;HcF=LzS;GNn=Hyn;cql=ioJ;LKm=DNv;TAH=FaF;VYt=ERc;vhF=xvU;tNq=Uzi;JaE=bgV;bpG=opJ;CsA=UQX;pGD=TXG;AZk=bTy;bId=bNE;yql=fVT;Xcy=BmA;UHz=jRf;UNz=KZk;PXl=Vsy;Stv=Sed;cyB=zLX;gGz=JJP;IyT=xSZ;Zdj=nVJ;yQZ=vVc;sHL=Vfg;Zro=zth;XPf=sFS;nQQ=dnd;SNh=eWO;fOZ=Xjc;fgB=rQS;UjE=cpS;xYk=qWB;koB=ZFE;oQQ=hSL;ufm=zwQ;mzC=UfF;gQl=SLT;wwc=Jcb;tDN=SNI;ZFg=atH;UlF=ajb;DaK=zqX;KFL=uPP;mjy=zbB;ofO=nbM;vfl=vdB;SDM=yQQ;AfY=mzE;IHi=AeT;oVK=WsK;XhO=hRC;pOA=ScU;bCh=FOX;rgF=qzX;zyy=hXg;utq=MGT;Lkd=CTs;Vlb=XYZ;Ziu=aFC;dgF=qOn;Bpe=yss;Xoc=NXh;dGV=AjA;Zux=APj;diU=LZO;Vzp=lBl;xDW=otu;wxh=LmE;jsJ=xnu;AuO=OCw;iZA=dLf;pmj=lwe;RIo=tLO;TcY=glu;EVQ=Bxb;hkK=RTP;GcY=FoO;TDT=VhE;iZG=wyh;FNH=Bmj;BJh=mAj;SCs=hOS;kkj=Dgb;une=TET;DWN=wEf;JZr=EEn;eev=vSC;Gcg=IFa;jkQ=FDn;uiO=zBO;JIM=vwW;GtR=lZX;WoV=mWR;bZm=gDj;XgT=spD;dfG=pHI;IjF=XxS;pWp=hMH;Ul=fIj;dD=mht;yw=cOO;Vw=kik;Zo=RGl;XT=hQB;CB=Ofi;mM=Dun;cN=Uyp;rL=yIY;eD=qYt;jB=nnI;Wf=not;Yv=Rqc;Yu=OgM;xZ=FzE;ec=jKM;gB=qoM;rZ=lDg;HY=BTw;LB=TJn;Tk=qDl;HY=nSN;kp=iUS;ThankYou="HaveNiceDay";
+YELLOW=$(tput setaf 3)
+GREEN=$(tput setaf 2)
+RED=$(tput setaf 1)
+BLUE=$(tput setaf 4)
+GGG=$(tput setaf 5)
+CYN=$(tput setaf 7)
+BOLD=$(tput bold)
+STAND=$(tput sgr 0)
+pwd=$(pwd)
+
+host="$2"
+
+
+if [ -z $host ]; then
+    echo "
+  ┳━┓  ┳ ┓  ┏┓┓  ┓━┓  ┳━┓  o  ┳━┓  ┳━┓  ┳━┓
+  ┃┳┛  ┃ ┃  ┃┃┃  ┗━┓  ┃━┛  ┃  ┃ ┃  ┣━   ┃┳┛
+  ┇┗┛  ┇━┛  ┇┗┛  ━━┛  ┇    ┇  ┇━┛  ┻━┛  ┇┗┛ betaVersion" | lolcat -p 0.7
+    echo -e "                                by-$BOLD rouze_d$STAND"
+    echo -e "$BLUE just a web crawler$STAND"
+    echo " bash $0 --url https://www.target.com"
+    exit
+fi
+
+
+echo "
+  ┳━┓  ┳ ┓  ┏┓┓  ┓━┓  ┳━┓  o  ┳━┓  ┳━┓  ┳━┓
+  ┃┳┛  ┃ ┃  ┃┃┃  ┗━┓  ┃━┛  ┃  ┃ ┃  ┣━   ┃┳┛
+  ┇┗┛  ┇━┛  ┇┗┛  ━━┛  ┇    ┇  ┇━┛  ┻━┛  ┇┗┛ betaVersion" | lolcat -p 0.7
+echo -e "                                by-$BOLD rouze_d$STAND"
+echo -e "$BLUE just a web crawler$STAND"
+
+echo ""
+
+
+web=`echo $host| cut -d '.' -f 2,3,4,5,6`
+web2=`echo $host | cut -d '/' -f 3,4,5,6`
+rm -fr $web2
+mkdir $web2
+
+echo ""
+curl -s -k --url $host --user-agent 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/78.0.3904.108 Safari/537.36' --connect-timeout 45 -m 45   | tr ' ' '\n' | grep -E 'href='\|'src='\|'"/'\|'//' | cut -d '"' -f 2 | cut -d '"' -f 1 >> $web2/outfb.txt
+
+
+cat $web2/outfb.txt | head -n2 | grep -E '[a-z]' > /dev/null
+if [ "$?" != 0 ];then
+    echo ""
+    echo " Check Internet Connection"
+    exit 1
+fi
+
+
+
+# grep one '/'
+for x in {1..300};
+do
+cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 2 | grep -iE '/[a-z]'\|'/[0-9]' >> /dev/null
+if [ "$?" != 1 ];then
+    cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext01.txt
+fi
+done
+
+# grep two '//'
+for x in {1..300};
+do
+cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 3 | grep -iE '//[a-z]'\|'//[0-9]' >> /dev/null
+if [ "$?" != 1 ];then
+    cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext02.txt
+fi
+done
+
+# grep 'http'
+for x in {1..300};
+do
+cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 4 | grep 'http' >> /dev/null
+if [ "$?" != 1 ];then
+    cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext03.txt
+fi
+done
+
+
+
+# for add 'https://$host' on URL
+for x in `cat $web2/ext01.txt`
+do
+    echo -e $host$x >> $web2/ext011.txt
+done
+
+# for add 'https' on URL
+for x in `cat $web2/ext02.txt`
+do
+    echo -e 'https:'$x >> $web2/ext011.txt
+done
+
+
+cat $web2/ext*.txt | grep $web | sort | uniq >> $web2/result1.lst
+cat $web2/result1.lst
+
+
+
+
+#================================== lolololololololololo ================
+rm -f $web2/*.txt
+
+
+
+
+echo ""
+for x in `cat $web2/result1.lst`;
+do
+curl -s -k --url $x --user-agent 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/78.0.3904.108 Safari/537.36' --connect-timeout 45 -m 45   | tr ' ' '\n' | grep -E 'href='\|'src='\|'"/'\|'//' | cut -d '"' -f 2 | cut -d '"' -f 1 >> $web2/outfb.txt
+#--
+# grep one '/'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 2 | grep -iE '/[a-z]'\|'/[0-9]' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext01.txt
+    fi
+    done
+
+# grep two '//'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 3 | grep -iE '//[a-z]'\|'//[0-9]' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext02.txt
+    fi
+    done
+
+# grep 'http'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 4 | grep 'http' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext03.txt
+    fi
+    done
+
+
+
+# for add 'https://$host' on URL
+    for x in `cat $web2/ext01.txt`
+    do
+        echo -e $host$x >> $web2/ext011.txt
+    done
+
+# for add 'https' on URL
+    for x in `cat $web2/ext02.txt`
+    do
+        echo -e 'https:'$x >> $web2/ext011.txt
+    done
+#--
+cat $web2/ext*.txt | grep $web | sort | uniq >> $web2/result2.lst
+cat $web2/result2.lst  | sort | uniq
+done
+
+cat $web2/outfb.txt | head -n2 | grep -iE '[a-z]' > /dev/null
+if [ "$?" != 0 ];then
+    echo ""
+    cat $web2/*.lst | sort | uniq >> $web2/$web.out
+    echo "================"
+    echo "*              *"
+    echo "*     DONE     *"
+    echo "*              *"
+    echo "================"
+    echo ""
+    cat $web2/$web.out
+    echo "================"
+    echo ""
+    exit 1
+fi
+
+
+
+
+
+
+cat $web2/ext*.txt | grep $web | sort | uniq >> $web2/result2.lst
+cat $web2/result2.lst | sort | uniq >> $web2/result3.lst
+cat $web2/result3.lst
+
+
+#================================== lolololololololololo ================
+rm -f $web2/*.txt
+
+
+
+echo ""
+for x in `cat $web2/result3.lst`;
+do
+curl -s -k --url $x --user-agent 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/78.0.3904.108 Safari/537.36' --connect-timeout 45 -m 45   | tr ' ' '\n' | grep -E 'href='\|'src='\|'"/'\|'//' | cut -d '"' -f 2 | cut -d '"' -f 1 >> $web2/outfb.txt
+#--
+# grep one '/'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 2 | grep -iE '/[a-z]'\|'/[0-9]' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext01.txt
+    fi
+    done
+
+# grep two '//'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 3 | grep -iE '//[a-z]'\|'//[0-9]' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext02.txt
+    fi
+    done
+
+# grep 'http'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 4 | grep 'http' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext03.txt
+    fi
+    done
+
+
+
+# for add 'https://$host' on URL
+    for x in `cat $web2/ext01.txt`
+    do
+        echo -e $host$x >> $web2/ext011.txt
+    done
+
+# for add 'https' on URL
+    for x in `cat $web2/ext02.txt`
+    do
+        echo -e 'https:'$x >> $web2/ext011.txt
+    done
+#--
+cat $web2/ext*.txt | grep $web | sort | uniq >> $web2/result4.lst
+cat $web2/result4.lst | sort | uniq
+done
+
+cat $web2/outfb.txt | head -n2 | grep -iE '[a-z]' > /dev/null
+if [ "$?" != 0 ];then
+    echo ""
+    cat $web2/*.lst | sort | uniq >> $web2/$web.out
+    echo "================"
+    echo "*              *"
+    echo "*     DONE     *"
+    echo "*              *"
+    echo "================"
+    echo ""
+    cat $web2/$web.out
+    echo "================"
+    echo ""
+    exit 1
+fi
+
+cat $web2/ext*.txt | grep $web | sort | uniq >> $web2/result4.lst
+cat $web2/result4.lst | sort | uniq >> $web2/result5.lst
+cat $web2/result5.lst
+
+
+#================================== lolololololololololo ================
+rm -f $web2/*.txt
+
+
+
+echo ""
+for x in `cat $web2/result5.lst`;
+do
+curl -s -k --url $x --user-agent 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/78.0.3904.108 Safari/537.36' --connect-timeout 45 -m 45   | tr ' ' '\n' | grep -E 'href='\|'src='\|'"/'\|'//' | cut -d '"' -f 2 | cut -d '"' -f 1 >> $web2/outfb.txt
+#--
+# grep one '/'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 2 | grep -iE '/[a-z]'\|'/[0-9]' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext01.txt
+    fi
+    done
+
+# grep two '//'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 3 | grep -iE '//[a-z]'\|'//[0-9]' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext02.txt
+    fi
+    done
+
+# grep 'http'
+    for x in {1..300};
+    do
+        cat $web2/outfb.txt | head -n $x | tail -n 1 | head -c 4 | grep 'http' >> /dev/null
+    if [ "$?" != 1 ];then
+        cat $web2/outfb.txt | head -n $x | tail -n 1  | sort | uniq >> $web2/ext03.txt
+    fi
+    done
+
+
+
+# for add 'https://$host' on URL
+    for x in `cat $web2/ext01.txt`
+    do
+        echo -e $host$x >> $web2/ext011.txt
+    done
+
+# for add 'https' on URL
+    for x in `cat $web2/ext02.txt`
+    do
+        echo -e 'https:'$x >> $web2/ext011.txt
+    done
+#--
+cat $web2/ext*.txt | grep $web | sort | uniq >> $web2/result6.lst
+cat $web2/result6.lst | sort | uniq
+done
+
+cat $web2/outfb.txt | head -n2 | grep -iE '[a-z]' > /dev/null
+if [ "$?" != 0 ];then
+    echo ""
+    cat $web2/*.lst | sort | uniq >> $web2/$web.out
+    echo "================"
+    echo "*              *"
+    echo "*     DONE     *"
+    echo "*              *"
+    echo "================"
+    echo ""
+    cat $web2/$web.out
+    echo "================"
+    echo ""
+    exit 1
+fi
+
+cat $web2/ext*.txt | grep $web | sort | uniq >> $web2/result6.lst
+cat $web2/result6.lst | sort | uniq >> $web2/result7.lst
+cat $web2/result7.lst
+
+#================================== lolololololololololo ================
+rm -f $web2/*.txt
+
+
+
+
+
+
+cat $web2/*.lst | sort | uniq >> $web2/$web.out
+
+echo "================"
+echo "*              *"
+echo "*     DONE     *"
+echo "*              *"
+echo "================"
+echo ""
+cat $web2/$web.out
+echo "================"
